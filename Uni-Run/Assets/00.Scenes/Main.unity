@@ -287,7 +287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f29a0bb51f8d154888d2697cb130def, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  platformPrefab: {fileID: 0}
+  platformPrefab: {fileID: 4083483820702186761, guid: 2ac00a9b42be7ae409e14ccdcb5a11c0, type: 3}
   count: 3
   timeBetSpawnMin: 1.23
   timeBetSpawnMax: 2.25
